@@ -1,0 +1,3 @@
+/Users/kamil/CLionProjects/XmasTree/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kamil/CLionProjects/XmasTree/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kamil/CLionProjects/XmasTree/cmake-build-debug/CMakeFiles/XmasTree.dir

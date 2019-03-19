@@ -1,0 +1,5 @@
+CMakeLists.txt
+a.out.dSYM
+cmake-build-debug
+main.cpp
+plik.txt

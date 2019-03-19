@@ -1,0 +1,3 @@
+/Users/kamil/CLionProjects/book/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kamil/CLionProjects/book/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kamil/CLionProjects/book/cmake-build-debug/CMakeFiles/book.dir
